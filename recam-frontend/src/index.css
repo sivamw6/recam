@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+@theme {
+  --color-recam-start: #1bacf7;
+  --color-recam-mid: #20b3ff;
+  --color-recam-end: #0085ca;
+}
